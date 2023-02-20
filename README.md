@@ -1,4 +1,4 @@
-# PBI
+# Survival Analysis in Power BI(PBI) wirh R Visuals
 ### Create TTE dataset in CSV format by running data.R in your local R Studio
 ### Load TTE CSV file to PBI
 ![image](https://user-images.githubusercontent.com/39288305/220159419-8637fb54-6ab6-4467-b83d-d9eb0c414cc5.png)
